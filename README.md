@@ -9,7 +9,16 @@ implementation.
 
 Notebook 2.ipynb:
 
-Apply the FDR approach to temperature data to test linear trends.
+Apply the FDR approach to temperature data to test the significance linear
+trends.
+
+## Requirements
+
+Main requirements: numpy, xarray, pandas, cartopy, tqdm, matplotlib,
+statsmodels, ipywidgets
+
+(Ipywidgets is only required for the final interactive visualization in both
+notebooks.)
 
 ## References:
 
@@ -17,7 +26,7 @@ Apply the FDR approach to temperature data to test linear trends.
    Points": How Research Results are Routinely Overstated and Overinterpreted,
    and What to Do about It. Bull. Amer. Meteor. Soc., 97, 2263–2273,
    https://doi.org/10.1175/BAMS-D-15-00267.1.
-2. Hartmann, D. L., and Coauthors, 2013: Observations: Atmosphere and
-  surface. Climate Change 2013: The Physical Science Basis, T. F. Stocker et
-  al., Eds., Cambridge University Press, 159–254.
+2. Hartmann, D. L., and Coauthors, 2013: Observations: Atmosphere and surface.
+   Climate Change 2013: The Physical Science Basis, T. F. Stocker et al., Eds.,
+   Cambridge University Press, 159–254.
 
