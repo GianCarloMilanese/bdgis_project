@@ -9,8 +9,8 @@ implementation.
 
 Notebook 2.ipynb:
 
-Apply the FDR approach to temperature data to test the significance linear
-trends.
+Apply the FDR approach to temperature data from CMIP6 climate models to test the
+significance of linear trends.
 
 ## Requirements
 
